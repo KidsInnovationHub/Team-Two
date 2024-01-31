@@ -1,0 +1,30 @@
+body {
+  marging: 0;
+  padding: 0;
+}
+header {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+img {
+  width: 200px;
+  height: auto;
+}
+nav ul {
+  list-style-type: none;
+  display: flex;
+}
+nav ul li {
+  margin-right: 20px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+.bg-img img {
+  width: 1900px;
+  height: 800px;
+}
